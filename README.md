@@ -4,4 +4,4 @@
 
 扫描二维码
 
-![输入图片说明](qrcode_for_gh_1d5b749b6053_258.jpg)
+![输入图片说明](https://gitee.com/hejinjin/hd-meitu-wallpaper/raw/master/qrcode_for_gh_1d5b749b6053_258.jpg)
